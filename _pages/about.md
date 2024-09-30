@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Haiyang Liao (廖海洋), a graduate student majoring in Geological Engineering at Nanjing University, focusing on fiber-optic distributed acoustic sensing (DAS) for urban shallow subsurface imaging using active and passive seismic sources. Currently, I am actively preparing to apply for Ph.D. programs. I aspire to continue studying and researching algorithms and programming in seismology, while exploring the wide-ranging applications of DAS technology in various settings.
+I am Haiyang Liao, a graduate student majoring in Geological Engineering at Nanjing University, focusing on fiber-optic distributed acoustic sensing (DAS) for urban shallow subsurface imaging using active and passive seismic sources. Currently, I am actively preparing to apply for Ph.D. programs. I aspire to continue studying and researching algorithms and programming in seismology, while exploring the wide-ranging applications of DAS technology in various settings.
 
 During my academic journey at Nanjing University under the guidance of [Dr. Dan Zhang](https://es.nju.edu.cn/geosensing/), I primarily focus on (a) The urban ground collapse monitoring based on DAS using existing dark fibers or dedicated vibration sensing optical cables to detect urban ground collapse through active and passive seismic imaging. (b) Geological exploration for the Shangyuanmen Railway Yangtze River Tunnel Project in Nanjing, employing DAS imaging and DAS VSP to investigate the distribution of karst in areas where dolomite is developed.
 
