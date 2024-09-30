@@ -8,46 +8,40 @@ author_profile: true
 <style>
   h2 {
     margin-bottom: 10px;
-    /* 调整标题之间的间距 */
   }
 
-  div {
+  div.session {
     margin-bottom: 20px;
-    /* 调整不同会议部分之间的间距 */
   }
 
   .image-row {
-    /* 定义图像行的样式 */
     display: flex;
-    /* 启用 flexbox 布局 */
-    justify-content: flex-start;
-    /* 图片靠左对齐 */
+    flex-wrap: wrap;
+    /* 允许内容换行 */
+    justify-content: space-between;
+    /* 两端对齐，中间间隙平均分布 */
   }
 
-  .image-row figure {
-    width: 50%;
-    /* 每个 figure 占用行宽的 50% */
-    margin-right: 10px;
-    /* 图片之间的间隙 */
+  figure {
+    flex: 1 1 48%;
+    /* 允许灵活的宽度但不超过48%，保证每行至多两个图 */
+    margin: 5px 0;
+    /* 控制上下间隙，左右间隙通过 flexbox 控制 */
   }
 
   figure img {
     width: 100%;
-    /* 图片填充整个 figure 宽度 */
     height: auto;
-    /* 保持图片原始纵横比 */
     display: block;
-    /* 确保图片独占一行 */
   }
 
   figure figcaption {
     text-align: center;
-    /* 图题居中显示 */
   }
 </style>
 
-<div>
-  <h2>The 9th Training Course on Seismological Algorithms and Programs (第九届地震学算法与程序培训珈)</h2>
+<div class="session">
+  <h2>The 9th Training Course on Seismological Algorithms and Programs （第九届地震学算法与程序培训班）</h2>
   <p>07-09 Aug. 2023, Inner Mongolia, China</p>
   <div class="image-row">
     <figure>
@@ -61,12 +55,12 @@ author_profile: true
   </div>
 </div>
 
-<div>
-  <h2>The 12th China Optic Fiber Sensing Conference (第十二届中国光纤传感大会)</h2>
+<div class="session">
+  <h2>The 12th China Optic Fiber Sensing Conference （第十二届中国光纤传感大会）</h2>
   <p>21-22 Sep. 2024, Chongqing, China</p>
   <figure>
     <img src="/images/光纤大会重庆照片.png" alt="Fiber Optic Conference Chongqing Photo"
-      style="width: 50%; height: auto; display: block; margin: 0 auto;">
+      style="width: 100%; display: block; margin: 0 auto;">
     <figcaption>Figure: Group photo from the conference, left: Ph.D. Haoyu Wang; middle: Professor Dan Zhang; right:
       M.S. Haiyang Liao</figcaption>
   </figure>
