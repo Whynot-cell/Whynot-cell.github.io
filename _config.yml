@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "H:\photos_and_videos\我\IMG_3670 2023-01-23 14_46_12.JPG"
+  avatar           : "profile.png"
   name             : "廖海洋/Haiyang Liao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
