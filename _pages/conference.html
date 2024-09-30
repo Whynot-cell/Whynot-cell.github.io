@@ -5,7 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-
 <style>
   h2 {
     margin-bottom: 10px;
@@ -16,23 +15,59 @@ author_profile: true
     margin-bottom: 20px;
     /* 调整不同会议部分之间的间距 */
   }
+
+  .image-row {
+    /* 定义图像行的样式 */
+    display: flex;
+    /* 启用 flexbox 布局 */
+    justify-content: flex-start;
+    /* 图片靠左对齐 */
+  }
+
+  .image-row figure {
+    width: 50%;
+    /* 每个 figure 占用行宽的 50% */
+    margin-right: 10px;
+    /* 图片之间的间隙 */
+  }
+
+  figure img {
+    width: 100%;
+    /* 图片填充整个 figure 宽度 */
+    height: auto;
+    /* 保持图片原始纵横比 */
+    display: block;
+    /* 确保图片独占一行 */
+  }
+
+  figure figcaption {
+    text-align: center;
+    /* 图题居中显示 */
+  }
 </style>
-
-
-
 
 <div>
   <h2>The 9th Training Course on Seismological Algorithms and Programs (第九届地震学算法与程序培训珈)</h2>
   <p>07-09 Aug. 2023, Inner Mongolia, China</p>
-  <img src="/images/资源 2.jpg" alt="Training Course Image 1"
-    style="width: 50%; height: auto; display: block; margin: 0 auto;">
-  <img src="/images/资源 1.jpg" alt="Training Course Image 2"
-    style="width: 50%; height: auto; display: block; margin: 0 auto;">
+  <div class="image-row">
+    <figure>
+      <img src="/images/资源 2.jpg" alt="Training Course Image 1">
+      <figcaption>Figure: Conference hall</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/资源 1.jpg" alt="Training Course Image 2">
+      <figcaption>Figure: Training arrangements</figcaption>
+    </figure>
+  </div>
 </div>
 
 <div>
   <h2>The 12th China Optic Fiber Sensing Conference (第十二届中国光纤传感大会)</h2>
   <p>21-22 Sep. 2024, Chongqing, China</p>
-  <img src="/images/光纤大会重庆照片.png" alt="Fiber Optic Conference Chongqing Photo"
-    style="width: 80%; height: auto; display: block; margin: 0 auto;">
+  <figure>
+    <img src="/images/光纤大会重庆照片.png" alt="Fiber Optic Conference Chongqing Photo"
+      style="width: 50%; height: auto; display: block; margin: 0 auto;">
+    <figcaption>Figure: Group photo from the conference, left: Ph.D. Haoyu Wang; middle: Professor Dan Zhang; right:
+      M.S. Haiyang Liao</figcaption>
+  </figure>
 </div>
