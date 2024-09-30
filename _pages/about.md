@@ -11,7 +11,8 @@ I am Haiyang Liao (廖海洋), a graduate student majoring in Geological Enginee
 
 During my academic journey at Nanjing University under the guidance of [Dr. Dan Zhang](https://es.nju.edu.cn/geosensing/), I primarily focus on (a) The urban ground collapse monitoring based on DAS using existing dark fibers or dedicated vibration sensing optical cables to detect urban ground collapse through active and passive seismic imaging. (b) Geological exploration for the Shangyuanmen Railway Yangtze River Tunnel Project in Nanjing, employing DAS imaging and DAS VSP to investigate the distribution of karst in areas where dolomite is developed.
 
-
+In my leisure time, I enjoy walking, reading books (especially those on philosophy), watching talk shows, and cycling.
+I was born and raised in Anqing city, Anhui province, P.R. of China.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
