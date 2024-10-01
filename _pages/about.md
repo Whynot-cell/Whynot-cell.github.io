@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 
+
+
 <!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
@@ -29,42 +31,24 @@ redirect_from:
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background: #f4f4f4;
-            color: #333;
+            color: #333; /* Keep text color simple and consistent */
         }
 
         /* Header styling */
         header {
-            background: #0056b3;
-            color: #fff;
             padding: 10px 20px;
             text-align: center;
         }
 
         /* Section styling */
         section {
-            background: #fff;
             margin: 20px;
             padding: 20px;
-            border: 1px solid #ddd;
         }
 
         /* Heading styles */
         h1, h2 {
-            color: #333;
-        }
-
-        h1 {
-            font-size: 24px;
-            margin-bottom: 10px; /* Space below h1 */
-        }
-
-        h2 {
-            font-size: 20px;
-            margin-top: 20px; /* Space above h2 */
-            margin-bottom: 10px; /* Space below h2 */
+            margin-bottom: 10px; /* Consistent space below headings */
         }
 
         /* Link styles */
@@ -79,7 +63,7 @@ redirect_from:
 
         /* List styles */
         ul {
-            list-style-type: none;
+            list-style-type: none; /* No bullets */
             padding-left: 20px;
         }
 
@@ -87,13 +71,7 @@ redirect_from:
             margin-bottom: 10px;
         }
 
-        /* Footer styling */
-        footer {
-            text-align: center;
-            padding: 20px;
-            background: #222;
-            color: #fff;
-        }
+        /* Remove footer styling for simplicity */
     </style>
 </head>
 <body>
@@ -102,8 +80,8 @@ redirect_from:
         <p>My name is Haiyang Liao, a graduate student in <a href="https://es.nju.edu.cn/acei/main.htm">Geological Engineering</a> at the <a href="https://es.nju.edu.cn/mainm.htm">School of Earth Sciences and Engineering</a>, <a href="https://www.nju.edu.cn/">Nanjing University</a>. Currently, I am actively preparing to apply for Ph.D. programs.</p>
     </header>
     <section id="research">
-        <h1>Research</h1>
-        <h2>Interests</h2>
+        <h2>Research</h2>
+        <h3>Interests</h3>
         <p>My specialization is in applying fiber-optic distributed acoustic sensing (DAS) technologies to image urban shallow subsurfaces, utilizing both active and passive seismic sources to enhance the accuracy and depth of subsurface mapping. I am dedicated to furthering my studies and research in seismology algorithms and programming, exploring the diverse applications of DAS technology across various contexts.</p>
     </section>
     <section id="projects">
@@ -123,8 +101,8 @@ redirect_from:
             <li><strong>Numerical Simulation for Subsurface Cavity Detection</strong> (Jan. 2023 - Oct. 2023): Used specfem3d/2d for simulations of shallow cavities to analyze DAS imaging responses.</li>
         </ul>
     </section>
-    <footer>
-        <!-- Optional footer content -->
-    </footer>
 </body>
 </html>
+
+
+
