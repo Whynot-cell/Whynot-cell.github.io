@@ -1,19 +1,22 @@
 ---
 permalink: /
-title: "WELCOME"
+title: "Welcome to My Page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome - Haiyang Liao</title>
+    <title>Welcome to My Page - Haiyang Liao</title>
+    <!-- Meta information for SEO and accessibility -->
+    <meta name="description" content="Haiyang Liao's academic and research portfolio page, detailing projects in Geological Engineering and research in DAS seismology.">
+    <meta name="keywords" content="Haiyang Liao, DAS Seismology, Geological Engineering, Nanjing University, PhD Research, Subsurface Imaging">
+    <meta name="author" content="Haiyang Liao">
 </head>
 <body>
     <header>
@@ -21,22 +24,20 @@ redirect_from:
         <p>My name is Haiyang Liao, a graduate student in <a href="https://es.nju.edu.cn/acei/main.htm">Geological Engineering</a> at the <a href="https://es.nju.edu.cn/mainm.htm">School of Earth Sciences and Engineering</a>, <a href="https://www.nju.edu.cn/">Nanjing University</a>. Currently, I am actively preparing to apply for Ph.D. programs.</p>
     </header>
     <section id="research">
-        <h2>Research Interests</h2>
+        <h2>Research</h2>
         <p>My specialization is in applying fiber-optic distributed acoustic sensing (DAS) technologies to image urban shallow subsurfaces, utilizing both active and passive seismic sources to enhance the accuracy and depth of subsurface mapping. I am dedicated to furthering my studies and research in seismology algorithms and programming, exploring the diverse applications of DAS technology across various contexts.</p>
     </section>
     <section id="projects">
         <h2>Projects</h2>
-        <div>
-            <p>During my academic journey at Nanjing University under the guidance of <a href="https://es.nju.edu.cn/geosensing/">Dr. Dan Zhang</a>, I primarily focus on:</p>
-            <ul>
-                <li>
-                    <strong>Urban Ground Collapse Monitoring:</strong> Utilizing existing dark fibers or dedicated vibration sensing optical cables to detect urban ground collapses through both active and passive seismic imaging. This major research focus during my master's studies involves extensive participation in experiments and research using DAS seismology.
-                </li>
-                <li>
-                    <strong>Geological Exploration for the Shangyuanmen Railway Yangtze River Tunnel Project in Nanjing:</strong> Employing DAS imaging and DAS VSP to investigate the distribution of karst in areas where dolomite is prevalent. As the student leader on this project, I am responsible for designing the experimental plan, coordinating with multiple parties, implementing the field tests, processing data, and co-authoring the final report.
-                </li>
-            </ul>
-        </div>
+        <p>During my academic journey at Nanjing University under the guidance of <a href="https://es.nju.edu.cn/geosensing/">Dr. Dan Zhang</a>, I primarily focus on:</p>
+        <ul>
+            <li>
+                <strong>Urban Ground Collapse Monitoring:</strong> Utilizing existing dark fibers or dedicated vibration sensing optical cables to detect urban ground collapses through both active and passive seismic imaging. This major research focus during my master's studies involves extensive participation in experiments and research using DAS seismology.
+            </li>
+            <li>
+                <strong>Geological Exploration for the Shangyuanmen Railway Yangtze River Tunnel Project in Nanjing:</strong> Employing DAS imaging and DAS VSP to investigate the distribution of karst in areas where dolomite is prevalent. As the student leader on this project, I am responsible for designing the experimental plan, coordinating with multiple parties, implementing the field tests, processing data, and co-authoring the final report.
+            </li>
+        </ul>
     </section>
     <section id="experience">
         <h3>Experience</h3>
@@ -60,3 +61,5 @@ redirect_from:
     </footer>
 </body>
 </html>
+
+
