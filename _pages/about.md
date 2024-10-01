@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-
 <!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
@@ -19,23 +18,82 @@ redirect_from:
     <meta name="keywords" content="Haiyang Liao, DAS Seismology, Geological Engineering, Nanjing University, PhD Research, Subsurface Imaging">
     <meta name="author" content="Haiyang Liao">
     <style>
-        /* Reduce the top margin for h2 elements */
-        h2 {
-            margin-top: 10px; /* Adjust this value as needed */
-        }
-        /* Optional: Reset margin and padding for all elements to ensure consistency */
-        * {
+        /* Reset margin, padding, and box-sizing for all elements to ensure consistency */
+        *, *::before, *::after {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
-        /* Style sections for clearer distinction */
-        section {
-            margin-top: 20px;
-            padding: 20px;
-            border: none;  /* This removes the border */
+
+        /* Set global font styles */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
         }
 
+        /* Header styling */
+        header {
+            background: #0056b3;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+
+        /* Section styling */
+        section {
+            background: #fff;
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #ddd;
+        }
+
+        /* Heading styles */
+        h1, h2 {
+            color: #333;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 10px; /* Space below h1 */
+        }
+
+        h2 {
+            font-size: 20px;
+            margin-top: 20px; /* Space above h2 */
+            margin-bottom: 10px; /* Space below h2 */
+        }
+
+        /* Link styles */
+        a {
+            color: #0077cc;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* List styles */
+        ul {
+            list-style-type: none;
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        /* Footer styling */
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #222;
+            color: #fff;
+        }
     </style>
 </head>
 <body>
@@ -52,29 +110,17 @@ redirect_from:
         <h2>Projects</h2>
         <p>During my academic journey at Nanjing University under the guidance of <a href="https://es.nju.edu.cn/geosensing/">Dr. Dan Zhang</a>, I primarily focus on:</p>
         <ul>
-            <li>
-                <strong>Urban Ground Collapse Monitoring</strong> (May 2024 - Present): Utilizing existing dark fibers or dedicated vibration sensing optical cables to detect urban ground collapses through both active and passive seismic imaging. This major research focus during my master's studies involves extensive participation in experiments and research using DAS seismology.
-            </li>
-            <li>
-                <strong>Geological Exploration for the Shangyuanmen Railway Yangtze River Tunnel Project in Nanjing</strong> (June 2023 - Aug. 2024): Employing DAS imaging and DAS VSP to investigate the distribution of karst in areas where dolomite is prevalent. As the student leader on this project, I am responsible for designing the experimental plan, coordinating with multiple parties, implementing the field tests, processing data, and co-authoring the final report.
-            </li>
+            <li><strong>Urban Ground Collapse Monitoring</strong> (May 2024 - Present): Utilizing existing dark fibers or dedicated vibration sensing optical cables to detect urban ground collapses through both active and passive seismic imaging. This major research focus during my master's studies involves extensive participation in experiments and research using DAS seismology.</li>
+            <li><strong>Geological Exploration for the Shangyuanmen Railway Yangtze River Tunnel Project in Nanjing</strong> (June 2023 - Aug. 2024): Employing DAS imaging and DAS VSP to investigate the distribution of karst in areas where dolomite is prevalent. As the student leader on this project, I am responsible for designing the experimental plan, coordinating with multiple parties, implementing the field tests, processing data, and co-authoring the final report.</li>
         </ul>
     </section>
     <section id="experience">
         <h2>Experience</h2>
         <ul>
-            <li>
-                <strong>Urban Ground Collapse Monitoring</strong> (May 2024 - Present): Deployed fiber optic cables near campus wells to validate cavity detection with DAS. Studied lateral detection ranges using the three-station interferometry method to address uneven noise.
-            </li>
-            <li>
-                <strong>Optical Fiber Cable Coupling Methods Study</strong> (May 2024 - Present): Installed fiber optic cables on campus using different coupling methods to compare imaging effects from active and passive sources.
-            </li>
-            <li>
-                <strong>Karst Fracture Zone Detection in Mufu Mountain, Nanjing</strong> (Jan. 2024 - Aug. 2024): Laid fiber optic cables on roads near Mufu Mountain, applying the frequency-Bessel method to detect fractured karst zones in dolomite.
-            </li>
-            <li>
-                <strong>Numerical Simulation for Subsurface Cavity Detection</strong> (Jan. 2023 - Oct. 2023): Used specfem3d/2d for simulations of shallow cavities to analyze DAS imaging responses.
-            </li>
+            <li><strong>Urban Ground Collapse Monitoring</strong> (May 2024 - Present): Deployed fiber optic cables near campus wells to validate cavity detection with DAS. Studied lateral detection ranges using the three-station interferometry method to address uneven noise.</li>
+            <li><strong>Optical Fiber Cable Coupling Methods Study</strong> (May 2024 - Present): Installed fiber optic cables on campus using different coupling methods to compare imaging effects from active and passive sources.</li>
+            <li><strong>Karst Fracture Zone Detection in Mufu Mountain, Nanjing</strong> (Jan. 2024 - Aug. 2024): Laid fiber optic cables on roads near Mufu Mountain, applying the frequency-Bessel method to detect fractured karst zones in dolomite.</li>
+            <li><strong>Numerical Simulation for Subsurface Cavity Detection</strong> (Jan. 2023 - Oct. 2023): Used specfem3d/2d for simulations of shallow cavities to analyze DAS imaging responses.</li>
         </ul>
     </section>
     <footer>
