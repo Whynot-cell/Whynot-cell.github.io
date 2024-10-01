@@ -33,8 +33,9 @@ redirect_from:
         section {
             margin-top: 20px;
             padding: 20px;
-            border: 1px solid #ccc;
+            border: none;  /* This removes the border */
         }
+
     </style>
 </head>
 <body>
