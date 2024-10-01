@@ -80,11 +80,11 @@ redirect_from:
         <p>My name is Haiyang Liao, a graduate student in <a href="https://es.nju.edu.cn/acei/main.htm">Geological Engineering</a> at the <a href="https://es.nju.edu.cn/mainm.htm">School of Earth Sciences and Engineering</a>, <a href="https://www.nju.edu.cn/">Nanjing University</a>. Currently, I am actively preparing to apply for Ph.D. programs.</p>
     </header>
     <section id="research">
-        <h2>Research</h2>
-        <h3>Interests</h3>
+        <h2>Research Interests</h2>
+        <!-- <h3>Interests</h3> -->
         <p>My specialization is in applying fiber-optic distributed acoustic sensing (DAS) technologies to image urban shallow subsurfaces, utilizing both active and passive seismic sources to enhance the accuracy and depth of subsurface mapping. I am dedicated to furthering my studies and research in seismology algorithms and programming, exploring the diverse applications of DAS technology across various contexts.</p>
     </section>
-    <section id="projects">
+    <!-- <section id="projects">
         <h2>Projects</h2>
         <p>During my academic journey at Nanjing University under the guidance of <a href="https://es.nju.edu.cn/geosensing/">Dr. Dan Zhang</a>, I primarily focus on:</p>
         <ul>
@@ -100,7 +100,7 @@ redirect_from:
             <li><strong>Karst Fracture Zone Detection in Mufu Mountain, Nanjing</strong> (Jan. 2024 - Aug. 2024): Laid fiber optic cables on roads near Mufu Mountain, applying the frequency-Bessel method to detect fractured karst zones in dolomite.</li>
             <li><strong>Numerical Simulation for Subsurface Cavity Detection</strong> (Jan. 2023 - Oct. 2023): Used specfem3d/2d for simulations of shallow cavities to analyze DAS imaging responses.</li>
         </ul>
-    </section>
+    </section> -->
 </body>
 </html>
 
