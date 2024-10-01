@@ -29,7 +29,7 @@ redirect_from:
         <h1>Research</h1>
         <h2>Interests</h2>
         <p>My specialization is in applying fiber-optic distributed acoustic sensing (DAS) technologies to image urban shallow subsurfaces, utilizing both active and passive seismic sources to enhance the accuracy and depth of subsurface mapping. I am dedicated to furthering my studies and research in seismology algorithms and programming, exploring the diverse applications of DAS technology across various contexts.</p>
-    </section>
+    <!-- </section> -->
     <section id="projects">
         <h2>Projects</h2>
         <p>During my academic journey at Nanjing University under the guidance of <a href="https://es.nju.edu.cn/geosensing/">Dr. Dan Zhang</a>, I primarily focus on:</p>
