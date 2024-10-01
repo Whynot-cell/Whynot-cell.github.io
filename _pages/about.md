@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,11 +20,12 @@ redirect_from:
 </head>
 <body>
     <header>
-        <h1>Welcome to My Page</h1>
+        <!-- <h1>Welcome to My Page</h1> -->
         <p>My name is Haiyang Liao, a graduate student in <a href="https://es.nju.edu.cn/acei/main.htm">Geological Engineering</a> at the <a href="https://es.nju.edu.cn/mainm.htm">School of Earth Sciences and Engineering</a>, <a href="https://www.nju.edu.cn/">Nanjing University</a>. Currently, I am actively preparing to apply for Ph.D. programs.</p>
     </header>
     <section id="research">
-        <h2>Research</h2>
+        <h1>Research</h1>
+        <h2>Interests</h2>
         <p>My specialization is in applying fiber-optic distributed acoustic sensing (DAS) technologies to image urban shallow subsurfaces, utilizing both active and passive seismic sources to enhance the accuracy and depth of subsurface mapping. I am dedicated to furthering my studies and research in seismology algorithms and programming, exploring the diverse applications of DAS technology across various contexts.</p>
     </section>
     <section id="projects">
@@ -40,7 +41,7 @@ redirect_from:
         </ul>
     </section>
     <section id="experience">
-        <h3>Experience</h3>
+        <h2>Experience</h2>
         <ul>
             <li>
                 <strong>Urban Ground Collapse Monitoring:</strong> (May 2024 - Present) Deployed fiber optic cables near campus wells to validate cavity detection with DAS. Studied lateral detection ranges using the three-station interferometry method to address uneven noise.
@@ -56,9 +57,10 @@ redirect_from:
             </li>
         </ul>
     </section>
-    <footer>
-        <p>In my leisure time, I enjoy walking, reading books (especially those on philosophy), watching talk shows, and cycling. I was born and raised in Anqing city, Anhui province, P.R. of China.</p>
-    </footer>
+    <section id="research">
+        <h1>Experiments</h1>
+
+    <section>
 </body>
 </html>
 
