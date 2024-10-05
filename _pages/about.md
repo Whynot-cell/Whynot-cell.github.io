@@ -76,6 +76,7 @@ redirect_from:
 </head>
 <body>
     <header>
+        <img src="/images/地科.jpg" alt="Geological Science Image" style="width:100%;"> <!-- Image added here -->
         <h1>Welcome to My Page</h1>
         <p>My name is Haiyang Liao, a Master Student (Sep. 2022 - June 2025 expected) in <a href="https://es.nju.edu.cn/acei/main.htm">Geological Engineering</a> at the <a href="https://es.nju.edu.cn/mainm.htm">School of Earth Sciences and Engineering</a>, <a href="https://www.nju.edu.cn/">Nanjing University</a>. Currently, I am exploring opportunities for Ph.D. in Geophysics.</p>
     </header>
