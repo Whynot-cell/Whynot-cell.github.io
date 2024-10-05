@@ -4,3 +4,113 @@ title: "other things about me"
 permalink: /teaching/
 author_profile: true
 ---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Photo Gallery</title>
+  <style>
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 0;
+      margin: 0;
+      justify-content: space-around;
+      /* 使图片和文字均匀分布 */
+    }
+
+    .gallery div {
+      width: 20%;
+      /* 控制容器宽度 */
+      margin: 10px 0;
+      /* 添加上下边距 */
+      text-align: center;
+      /* 文本居中显示 */
+    }
+
+    .gallery img {
+      width: 100%;
+      /* 图片宽度充满容器 */
+      height: auto;
+      /* 自动调整高度以保持图片比例 */
+      padding: 5px;
+      /* 图片间的空隙 */
+    }
+
+    .caption {
+      font-weight: bold;
+      /* 粗体显示标题 */
+      margin: 5px 0;
+      /* 标题的上下边距 */
+    }
+
+    .description {
+      font-size: 0.8em;
+      /* 描述文字的大小 */
+      color: #666;
+      /* 描述文字的颜色 */
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="gallery">
+    <div>
+      <img src="/images/内蒙酒店云.jpg" alt="内蒙古酒店的云">
+      <div class="caption">内蒙古酒店云</div>
+      <div class="description">云朵形状奇特</div>
+    </div>
+    <!-- 重复上面的div结构，为每张图片添加标题和描述 -->
+    <div>
+      <img src="/images/科普 2.jpg" alt="科普活动">
+      <div class="caption">科普活动</div>
+      <div class="description">参与地质科普</div>
+    </div>
+    <div>
+      <img src="/images/志愿者 活动 地质科普.jpg" alt="志愿者地质科普活动">
+      <div class="caption">志愿者地质科普</div>
+      <div class="description">宣传地质知识</div>
+    </div>
+    <div>
+      <img src="/images/南大鼓楼.jpg" alt="南大鼓楼">
+      <div class="caption">南大鼓楼</div>
+      <div class="description">校园标志性建筑</div>
+    </div>
+    <div>
+      <img src="/images/Adam prof 讨论.jpg" alt="与Adam教授的讨论">
+      <div class="caption">教授讨论</div>
+      <div class="description">学术交流时刻</div>
+    </div>
+    <div>
+      <img src="/images/云？.jpg" alt="云？">
+      <div class="caption">神秘云形</div>
+      <div class="description">自然的艺术</div>
+    </div>
+    <div>
+      <img src="/images/family.jpg" alt="家庭照">
+      <div class="caption">家庭</div>
+      <div class="description">温馨家庭时光</div>
+    </div>
+    <div>
+      <img src="/images/大学地质实习.jpg" alt="大学地质实习">
+      <div class="caption">地质实习</div>
+      <div class="description">实地考察学习</div>
+    </div>
+    <div>
+      <img src="/images/从苏州搬运DAS设备.jpg" alt="从苏州搬运DAS设备">
+      <div class="caption">搬运设备</div>
+      <div class="description">科研设备调运</div>
+    </div>
+    <div>
+      <img src="/images/内蒙云.jpg" alt="内蒙古的云">
+      <div class="caption">内蒙古的云</div>
+      <div class="description">大自然的鬼斧神工</div>
+    </div>
+  </div>
+
+</body>
+
+</html>
