@@ -5,60 +5,12 @@ permalink: /portfolio/
 author_profile: true
 ---
 <style>
-  .session h2 {
-    margin-bottom: 10px;
-  }
-
   .session {
     margin-bottom: 20px;
   }
 
-  .image-row {
-    display: flex;
-    justify-content: space-between;
-  }
-
-  .image-row figure {
-    flex: 1 1 48%;
-    /* Adjust width per figure */
-    margin: 5px 0;
-    padding: 5px;
-  }
-
-  .image-row img {
-    width: 100%;
-    display: block;
-    margin: auto;
-  }
-
-  .image-row figcaption {
-    text-align: center;
-    font-size: 16px;
-  }
-
-  .container {
-    display: flex;
-  }
-
-  .container .column {
-    flex: 50%;
-    padding: 20px;
-  }
-
-  .container .column .row {
-    margin-bottom: 20px;
-  }
-
-  .container img {
-    width: 100%;
-    display: block;
-    margin: auto;
-
-    max-width: 100%;
-    /* Ensures image responsiveness */
-    max-height: 300px;
-    /* Set a max height to control image size */
-
+  .session h2 {
+    margin-bottom: 10px;
   }
 </style>
 
@@ -68,19 +20,19 @@ author_profile: true
   <p>- Deployed fiber optic cables near campus wells to validate cavity detection with DAS.</p>
   <p>- Studied lateral detection ranges with DAS using the three-station interferometry method to address uneven noise.
   </p>
-  <div class="image-row">
-    <figure>
-      <img src="/images/空洞试验窖井群.jpg" alt="First Experiment Image">
-      <figcaption>Multiple buried fiber optic sensing cables near the well cavity cluster.</figcaption>
+  <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+    <figure style="width: 45%;">
+      <img src="/images/空洞试验窖井群.jpg" alt="First Experiment Image" style="width: 100%; display: block; margin: auto;">
+      <figcaption style="text-align: center;">Multiple buried fiber optic sensing cables near the well cavity cluster.
+      </figcaption>
     </figure>
-    <figure>
-      <img src="/images/空洞试验.jpg" alt="Second Experiment Image">
-      <figcaption>Different coupling methods of fiber optic cables and sledgehammer seismic sources.</figcaption>
+    <figure style="width: 45%;">
+      <img src="/images/空洞试验.jpg" alt="Second Experiment Image" style="width: 100%; display: block; margin: auto;">
+      <figcaption style="text-align: center;">Different coupling methods of fiber optic cables and sledgehammer seismic
+        sources.</figcaption>
     </figure>
   </div>
 </div>
-（这两张图片的大小怎么控制？我就是想小一点，不至于两张照片贴的紧紧的）
-
 
 
 
@@ -90,27 +42,26 @@ author_profile: true
   <p>Jan. 2024 - Aug. 2024</p>
   <p>- Laid fiber optic cables on roads near Mufu Mountain, applying the frequency-Bessel method to detect fractured
     karst zones in dolomite.</p>
-  <div class="container">
-    <div class="column">
-      <div class="row">
-        <figure>
-          <img src="/images/sym试验DAS操作处.jpg" alt="DAS Operation during SYM experiment">
-          <figcaption>DAS Operation during SYM experiment</figcaption>
-        </figure>
-      </div>
-      <div class="row">
-        <figure>
-          <img src="/images/sym试验收尾.jpg" alt="Final Stages of SYM Experiment">
-          <figcaption>Final Stages of SYM Experiment</figcaption>
-        </figure>
-      </div>
+  <div style="display: flex; margin-bottom: 20px;">
+    <!-- First column with two rows -->
+    <div style="width: 50%; display: flex; flex-direction: column; justify-content: space-between; margin-right: 5px;">
+      <figure style="margin: 5px; padding: 5px;">
+        <img src="/images/sym试验DAS操作处.jpg" alt="DAS Operation during SYM experiment"
+          style="width: 100%; height: auto; display: block;">
+        <figcaption style="text-align: center;">DAS Operation during SYM experiment</figcaption>
+      </figure>
+      <figure style="margin: 5px; padding: 5px;">
+        <img src="/images/sym试验收尾.jpg" alt="Final Stages of SYM Experiment"
+          style="width: 100%; height: auto; display: block;">
+        <figcaption style="text-align: center;">Final Stages of SYM Experiment</figcaption>
+      </figure>
     </div>
-    <div class="column">
-      <figure>
-        <img src="/images/布设光缆.jpg" alt="Fiber Optic Cable Layout">
-        <figcaption>Fiber Optic Cable Layout</figcaption>
+    <!-- Second column -->
+    <div style="width: 50%; margin-left: 5px;">
+      <figure style="margin: 5px; padding: 5px;">
+        <img src="/images/布设光缆.jpg" alt="Fiber Optic Cable Layout" style="width: 100%; height: auto; display: block;">
+        <figcaption style="text-align: center;">Fiber Optic Cable Layout</figcaption>
       </figure>
     </div>
   </div>
 </div>
-（这三张图片的大小怎么控制？我就是想小一点，不至于占的空间满满的）
