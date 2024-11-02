@@ -78,7 +78,7 @@ redirect_from:
     <header>
          <!-- Image added here -->
         <h1>Welcome to My Page</h1>
-        <p>My name is Haiyang Liao, a Master Student (Sep. 2022 - June 2025 expected) in <a href="https://es.nju.edu.cn/acei/main.htm">Geological Engineering</a> at the <a href="https://es.nju.edu.cn/mainm.htm">School of Earth Sciences and Engineering</a>, <a href="https://www.nju.edu.cn/">Nanjing University</a>. Currently, I am exploring opportunities for Ph.D. in Geophysics.</p>
+        <p>My name is Haoyu Wang, a Master Student (Sep. 2022 - June 2025 expected) in <a href="https://es.nju.edu.cn/acei/main.htm">Geological Engineering</a> at the <a href="https://es.nju.edu.cn/mainm.htm">School of Earth Sciences and Engineering</a>, <a href="https://www.nju.edu.cn/">Nanjing University</a>. Currently, I am exploring opportunities for Ph.D. in Geophysics.</p>
     </header>
     <section id="research">
         <h2>Research Interests</h2>
