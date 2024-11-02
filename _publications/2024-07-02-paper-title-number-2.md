@@ -7,6 +7,6 @@ category: manuscripts
 date: 2024-07-02
 venue: 'Geotechnical Testing Journal'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://liaohaiyang1534.github.io/files/GTJ-2023-0370_complimentary.pdf'
+paperurl: 'http://whynot-cell.github.io/files/GTJ-2023-0370_complimentary.pdf'
 citation: 'Luo, Qi, Dan Zhang, Hasanjan Yimit, Jingwen Su, Haoyu Wang, and Haiyang Liao. "Effects of Cable Sheath on Deformation Coordination between the Sensing Fiber and Sand." Geotechnical Testing Journal 47, no. 5 (2024).'
 ---
