@@ -15,7 +15,7 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to My Page - Haiyang Liao</title>
+    <title>Welcome to My Page - Haoyu Wang</title>
     <meta name="description" content="Haiyang Liao's academic and research portfolio page, detailing projects in Geological Engineering and research in DAS seismology.">
     <meta name="keywords" content="Haiyang Liao, DAS Seismology, Geological Engineering, Nanjing University, PhD Research, Subsurface Imaging">
     <meta name="author" content="Haiyang Liao">
