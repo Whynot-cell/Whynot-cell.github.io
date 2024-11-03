@@ -79,9 +79,6 @@ redirect_from:
          <!-- Image added here -->
         <h1>Welcome to My Page</h1>
     </header>
-    <style>section {
-    margin-bottom: 10px; /* 调整第一段 section 下方的间距 */
-}</style>
     <section>
         <p>My name is Haoyu Wang, a Ph.D. candidate from <a href="https://www.nju.edu.cn/en/">Nanjing University</a>
         <br> Major: Geological Engineering
@@ -91,6 +88,11 @@ redirect_from:
     </section>
     <section id="research">
         <h2>Research Interests</h2>
+        <!-- <h3>Interests</h3> -->
+        <p>- Application of Distributed Fiber Optic Sensing (DFOS) on Energy Geostructure. 
+        <br>- Application of enhanced Phase Change Materials (PCM) on Energy Piles.
+        <br>- Estimation of the seepage field around an energy pile using its temperature profile measured by DFOS</p>
+        <h2>Projects</h2>
         <!-- <h3>Interests</h3> -->
         <p>- Application of Distributed Fiber Optic Sensing (DFOS) on Energy Geostructure. 
         <br>- Application of enhanced Phase Change Materials (PCM) on Energy Piles.
@@ -113,7 +115,9 @@ redirect_from:
             <li><strong>Numerical Simulation for Subsurface Cavity Detection</strong> (Jan. 2023 - Oct. 2023): Used specfem3d/2d for simulations of shallow cavities to analyze DAS imaging responses.</li>
         </ul>
     </section> -->
+    <div style="text-align: center;">
     <img src="/images/地科.jpg" alt="Geological Science Image" style="width:75%;">
+</div>
 </body>
 </html>
 
