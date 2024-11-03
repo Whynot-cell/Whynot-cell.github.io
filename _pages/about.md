@@ -78,12 +78,14 @@ redirect_from:
     <header>
          <!-- Image added here -->
         <h1>Welcome to My Page</h1>
+    </header>
+    <section>
         <p>My name is Haoyu Wang, a Ph.D. candidate from <a href="https://www.nju.edu.cn/en/">Nanjing University</a>
         <br> Major: Geological Engineering
         <br> Supervisor: <a href="https://es.nju.edu.cn/geosensing/">Dr. Dan Zhang</a>
         <br> Laboratory: <a href="https://es.nju.edu.cn/acei/main.htm">Advanced Computational Engineering Institute for Earth Environment (ACEI)</a>
         <br> Faculty: <a href="https://es.nju.edu.cn/esen/main.htm">School of Earth Sciences and Engineering</a></p>
-    </header>
+    </section>
     <section id="research">
         <h2>Research Interests</h2>
         <!-- <h3>Interests</h3> -->
