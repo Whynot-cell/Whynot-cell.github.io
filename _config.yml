@@ -288,7 +288,25 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
+  padding: 10px; /* 内边距 */
+}
+
+.navbar-links {
+  display: flex; /* 使用 flexbox 布局 */
+  justify-content: space-around; /* 链接均匀分布 */
+}
+
+.navbar a {
+  color: white; /* 链接文本颜色 */
+  text-decoration: none; /* 去掉下划线 */
+  padding: 10px 15px; /* 内边距 */
+}
+
+.navbar a:hover {
+  background-color: rgba(255, 255, 255, 0.2); /* 悬停时背景颜色 */
+}
+  # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
