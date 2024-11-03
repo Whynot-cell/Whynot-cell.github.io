@@ -92,13 +92,13 @@ redirect_from:
         <p>- Application of Distributed Fiber Optic Sensing (DFOS) on Energy Geostructure. 
         <br>- Application of enhanced Phase Change Materials (PCM) on Energy Piles.
         <br>- Estimation of the seepage field around an energy pile using its temperature profile measured by DFOS.</p>
-        <h3>Project</h3>
+        <h2>Project</h2>
         <!-- <h3>Interests</h3> -->
-        <p>- <strong>Characterization of thermal-mechanical behavior of energy piles with typical ground structure</strong> (<em>National Natural Science Foundation of China</em>, No.41572271), main participant. 
-        <br>- <strong>Research on geo-environmental effects of energy piles</strong> (<em>Natural Science Foundation of Jiangsu Province</em>, No.xxx), main participant. 
-        <br>- <strong>Research on key technology of shallow geothermal development based on super-large diameter energy piles</strong> (<em>Ministry of Housing and Urban-Rural Development</em>, No.2022-K-111), main participant.
-        <br>- <strong>Distributed Acoustic Sensing and Characterization of Urban Ground Collapse Development Processes</strong> (<em>National Natural Science Foundation of China</em>, No.42077233), main participant.
-        <br>- <strong>Development of a multi-parameter distributed fiber optic sensing system for geologic bodies</strong> (<em>National Major Research Instrument Development Program</em>, No.xxx), main participant.</p>
+        <p>- Characterization of thermal-mechanical behavior of energy piles with typical ground structure (<em>National Natural Science Foundation of China, No.41572271</em>), <strong>main participant</strong>. 
+        <br>- Research on geo-environmental effects of energy piles (<em>Natural Science Foundation of Jiangsu Province</em>, No.xxx), <strong>main participant</strong>. 
+        <br>- Research on key technology of shallow geothermal development based on super-large diameter energy piles (<em>Ministry of Housing and Urban-Rural Development, No.2022-K-111</em>), <strong>main participant</strong>.
+        <br>- Distributed Acoustic Sensing and Characterization of Urban Ground Collapse Development Processes (<em>National Natural Science Foundation of China, No.42077233</em>), <strong>main participant</strong>.
+        <br>- Development of a multi-parameter distributed fiber optic sensing system for geologic bodies (<em>National Major Research Instrument Development Program, No.xxx</em>), main participant.</p>
     </section>
     <!-- <section id="projects">
         <h2>Projects</h2>
