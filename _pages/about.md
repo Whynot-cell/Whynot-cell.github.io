@@ -36,14 +36,14 @@ redirect_from:
 
         /* Header styling */
         header {
-            padding: 10px 20px;
+            padding: 5px 10px;
             text-align: center;
         }
 
         /* Section styling */
         section {
             margin: 5px;
-            padding: 20px;
+            padding: 10px;
         }
 
         /* Heading styles */
@@ -64,7 +64,7 @@ redirect_from:
         /* List styles */
         ul {
             list-style-type: none; /* No bullets */
-            padding-left: 20px;
+            padding-left: 10px;
         }
 
         li {
