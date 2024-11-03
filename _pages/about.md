@@ -97,7 +97,9 @@ redirect_from:
         <!-- <h3>Interests</h3> -->
         <p>- National Natural Science Foundation of China: Characterization of thermal-mechanical behavior of energy piles with typical ground structure (No.41572271), main participant. 
         <br>- Natural Science Foundation of Jiangsu Province: Research on geo-environmental effects of energy piles (No.xxx), main participant. 
-        <br>- Ministry of Housing and Urban-Rural Development: Research on key technology of shallow geothermal development based on super-large diameter energy piles (No.2022-K-111), main participant.</p>
+        <br>- Ministry of Housing and Urban-Rural Development: Research on key technology of shallow geothermal development based on super-large diameter energy piles (No.2022-K-111), main participant.
+        <br>- National Natural Science Foundation of China: Distributed Acoustic Sensing and Characterization of Urban Ground Collapse Development Processes (No.42077233), main participant.
+        <br>- National Major Research Instrument Development Program: Development of a multi-parameter distributed fiber optic sensing system for geologic bodies (No.42077233), main participant.</p>
     </section>
     <!-- <section id="projects">
         <h2>Projects</h2>
