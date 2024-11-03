@@ -79,10 +79,11 @@ redirect_from:
          <!-- Image added here -->
         <h1>Welcome to My Page</h1>
     </header>
+    <style>section { margin-bottom: 10px;}
     <section>
         <p>My name is Haoyu Wang, a Ph.D. candidate from <a href="https://www.nju.edu.cn/en/">Nanjing University</a>
         <br> Major: Geological Engineering
-        <br> Supervisor: <a href="https://es.nju.edu.cn/geosensing/">Dr. Dan Zhang</a>
+        <br> Supervisor: <a href="https://es.nju.edu.cn/geosensing/">Prof. Dan Zhang</a>
         <br> Laboratory: <a href="https://es.nju.edu.cn/acei/main.htm">Advanced Computational Engineering Institute for Earth Environment (ACEI)</a>
         <br> Faculty: <a href="https://es.nju.edu.cn/esen/main.htm">School of Earth Sciences and Engineering</a></p>
     </section>
@@ -110,7 +111,7 @@ redirect_from:
             <li><strong>Numerical Simulation for Subsurface Cavity Detection</strong> (Jan. 2023 - Oct. 2023): Used specfem3d/2d for simulations of shallow cavities to analyze DAS imaging responses.</li>
         </ul>
     </section> -->
-    <img src="/images/地科.jpg" alt="Geological Science Image" style="width:100%;">
+    <img src="/images/地科.jpg" alt="Geological Science Image" style="width:75%;">
 </body>
 </html>
 
