@@ -79,6 +79,9 @@ redirect_from:
          <!-- Image added here -->
         <h1>Welcome to My Page</h1>
     </header>
+    <style>section {
+    margin-bottom: 10px; /* 调整第一段 section 下方的间距 */
+}</style>
     <section>
         <p>My name is Haoyu Wang, a Ph.D. candidate from <a href="https://www.nju.edu.cn/en/">Nanjing University</a>
         <br> Major: Geological Engineering
