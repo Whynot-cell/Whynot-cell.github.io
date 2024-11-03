@@ -79,6 +79,7 @@ redirect_from:
          <!-- Image added here -->
         <h1>Welcome to My Page</h1>
     </header>
+    <section style="margin-bottom: 10px;">
     <section>
         <p>My name is Haoyu Wang, a Ph.D. candidate from <a href="https://www.nju.edu.cn/en/">Nanjing University</a>
         <br> Major: Geological Engineering
@@ -94,9 +95,9 @@ redirect_from:
         <br>- Estimation of the seepage field around an energy pile using its temperature profile measured by DFOS</p>
         <h2>Projects</h2>
         <!-- <h3>Interests</h3> -->
-        <p>- Application of Distributed Fiber Optic Sensing (DFOS) on Energy Geostructure. 
-        <br>- Application of enhanced Phase Change Materials (PCM) on Energy Piles.
-        <br>- Estimation of the seepage field around an energy pile using its temperature profile measured by DFOS</p>
+        <p>- National Natural Science Foundation of China: Characterization of thermal-mechanical behavior of energy piles with typical ground structure (No.41572271), main participant. 
+        <br>- Natural Science Foundation of Jiangsu Province: Research on geo-environmental effects of energy piles (No.xxx), main participant. 
+        <br>- Ministry of Housing and Urban-Rural Development: Research on key technology of shallow geothermal development based on super-large diameter energy piles (No.2022-K-111), main participant.</p>
     </section>
     <!-- <section id="projects">
         <h2>Projects</h2>
