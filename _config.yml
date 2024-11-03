@@ -21,7 +21,7 @@ repository               : "whynot-cell/whynot-cell.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "头像.png"
   name             : "Haoyu Wang"
   pronouns         : # example: "she/her"  
   # bio              : "M.S (Expected 2025), @Majoring in Geological Engineering, [School of Earth Sciences and Engineering, Nanjing University](https://es.nju.edu.cn/mainm.htm)"

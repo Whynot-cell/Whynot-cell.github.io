@@ -78,12 +78,18 @@ redirect_from:
     <header>
          <!-- Image added here -->
         <h1>Welcome to My Page</h1>
-        <p>My name is Haoyu Wang, a Ph.D. candidate(Sep. 2023 - June 2027 expected) in <a href="https://es.nju.edu.cn/acei/main.htm">Geological Engineering</a> at the <a href="https://es.nju.edu.cn/esen/main.htm">School of Earth Sciences and Engineering</a>, <a href="https://www.nju.edu.cn/en/">Nanjing University</a>. </p>
+        <p>My name is Haoyu Wang, a Ph.D. candidate from <a href="https://www.nju.edu.cn/en/">Nanjing University</a>
+        <br> Major: Geological Engineering
+        <br> Supervisor: <a href="https://es.nju.edu.cn/geosensing/">Dr. Dan Zhang</a>
+        <br> Laboratory: <a href="https://es.nju.edu.cn/acei/main.htm">Advanced Computational Engineering Institute for Earth Environment (ACEI)</a>
+        <br> Faculty: <a href="https://es.nju.edu.cn/esen/main.htm">School of Earth Sciences and Engineering</a></p>
     </header>
     <section id="research">
         <h2>Research Interests</h2>
         <!-- <h3>Interests</h3> -->
-        <p>During my academic journey at Nanjing University under the guidance of <a href="https://es.nju.edu.cn/geosensing/">Dr. Dan Zhang</a>, my specialization is (1) Application of Distributed Fiber Optic Sensing (DFOS) on Energy Geostructure. (2) Application of enhanced Phase Change Materials (PCM) on Energy Piles. (3) Estimation of the seepage field around an energy pile using its temperature profile measured by DFOS</p>
+        <p>- Application of Distributed Fiber Optic Sensing (DFOS) on Energy Geostructure. 
+        <br>- Application of enhanced Phase Change Materials (PCM) on Energy Piles.
+        <br>- Estimation of the seepage field around an energy pile using its temperature profile measured by DFOS</p>
     </section>
     <!-- <section id="projects">
         <h2>Projects</h2>
