@@ -94,9 +94,18 @@ redirect_from:
         <br>- Estimation of the seepage field around an energy pile using its temperature profile measured by DFOS</p>
         <h2>Project</h2>
         <!-- <h3>Interests</h3> -->
+        <h2>Research Interests</h2>
+        <!-- <h3>Interests</h3> -->
         <p>- Application of Distributed Fiber Optic Sensing (DFOS) on Energy Geostructure. 
         <br>- Application of enhanced Phase Change Materials (PCM) on Energy Piles.
         <br>- Estimation of the seepage field around an energy pile using its temperature profile measured by DFOS</p>
+        <h2>Projects</h2>
+        <!-- <h3>Interests</h3> -->
+        <p>- National Natural Science Foundation of China: Characterization of thermal-mechanical behavior of energy piles with typical ground structure (No.41572271), main participant. 
+        <br>- Natural Science Foundation of Jiangsu Province: Research on geo-environmental effects of energy piles (No.xxx), main participant. 
+        <br>- Ministry of Housing and Urban-Rural Development: Research on key technology of shallow geothermal development based on super-large diameter energy piles (No.2022-K-111), main participant.
+        <br>- National Natural Science Foundation of China: Distributed Acoustic Sensing and Characterization of Urban Ground Collapse Development Processes (No.42077233), main participant.
+        <br>- National Major Research Instrument Development Program: Development of a multi-parameter distributed fiber optic sensing system for geologic bodies (No.xxx), main participant.</p>
     </section>
     <!-- <section id="projects">
         <h2>Projects</h2>
