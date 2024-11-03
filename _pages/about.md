@@ -98,7 +98,7 @@ redirect_from:
         <br>- Research on geo-environmental effects of energy piles (<em>Natural Science Foundation of Jiangsu Province</em>, No.xxx), <strong>main participant</strong>. 
         <br>- Research on key technology of shallow geothermal development based on super-large diameter energy piles (<em>Ministry of Housing and Urban-Rural Development, No.2022-K-111</em>), <strong>main participant</strong>.
         <br>- Distributed Acoustic Sensing and Characterization of Urban Ground Collapse Development Processes (<em>National Natural Science Foundation of China, No.42077233</em>), <strong>main participant</strong>.
-        <br>- Development of a multi-parameter distributed fiber optic sensing system for geologic bodies (<em>National Major Research Instrument Development Program, No.xxx</em>), main participant.</p>
+        <br>- Development of a multi-parameter distributed fiber optic sensing system for geologic bodies (<em>National Major Research Instrument Development Program, No.xxx</em>), <strong>main participant</strong>.</p>
     </section>
     <!-- <section id="projects">
         <h2>Projects</h2>
