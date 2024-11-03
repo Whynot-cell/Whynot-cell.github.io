@@ -36,19 +36,19 @@ redirect_from:
 
         /* Header styling */
         header {
-            padding: 0px 0px;
+            padding: 5px 10px;
             text-align: center;
         }
 
         /* Section styling */
         section {
-            margin: 0px;
-            padding: 0px;
+            margin: 5px;
+            padding: 10px;
         }
 
         /* Heading styles */
         h1, h2 {
-            margin-bottom: 0px; /* Consistent space below headings */
+            margin-bottom: 5px; /* Consistent space below headings */
         }
 
         /* Link styles */
@@ -68,7 +68,7 @@ redirect_from:
         }
 
         li {
-            margin-bottom: 0x;
+            margin-bottom: 5x;
         }
 
         /* Remove footer styling for simplicity */
