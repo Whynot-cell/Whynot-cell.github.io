@@ -118,7 +118,7 @@ redirect_from:
         </ul>
     </section> -->
     <div style="text-align: center;">
-    <img src="/images/地科.jpg" alt="Geological Science Image" style="width:75%;">
+    <img src="/images/南大.jpg" alt="Geological Science Image" style="width:75%;">
 </div>
 </body>
 </html>
