@@ -92,7 +92,7 @@ redirect_from:
         <p>- Application of Distributed Fiber Optic Sensing (DFOS) on Energy Geostructure. 
         <br>- Application of enhanced Phase Change Materials (PCM) on Energy Piles.
         <br>- Estimation of the seepage field around an energy pile using its temperature profile measured by DFOS.</p>
-        <h2>Project</h2>
+        <h2>Projects</h2>
         <!-- <h3>Interests</h3> -->
         <p style="text-align: justify;">- Characterization of thermal-mechanical behavior of energy piles with typical ground structure (<em>National Natural Science Foundation of China</em>), <strong>main participant</strong>. 
         <br>- Research on geo-environmental effects of energy piles (<em>Natural Science Foundation of Jiangsu Province</em>), <strong>main participant</strong>. 
