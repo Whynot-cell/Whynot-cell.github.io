@@ -89,8 +89,8 @@ redirect_from:
     <section id="research">
         <h2>Research Interests</h2>
         <!-- <h3>Interests</h3> -->
-        <p>- Application of Distributed Fiber Optic Sensing (DFOS) on Energy Geostructure. 
-        <br>- Application of enhanced Phase Change Materials (PCM) on Energy Piles.
+        <p>- Application of <em>Distributed Fiber Optic Sensing (DFOS) </em>on Energy Geostructure. 
+        <br>- Application of <em>enhanced Phase Change Materials (PCM)</em> on Energy Piles.
         <br>- Estimation of the seepage field around an energy pile using its temperature profile measured by DFOS.</p>
         <h2>Projects</h2>
         <!-- <h3>Interests</h3> -->
